@@ -89,21 +89,7 @@ Open your browser and visit:
 ```
 http://127.0.0.1:8000/
 ```
-
-## Future Enhancements
-
-- One-to-One Chat
-- Email Verification
-- Notifications
-- Media Sharing
-- Dark Mode
-- Video Meeting Integration
-
-## Author
-
 **Shagun Goel**
 
 B.Tech CSE | Python & Django Developer
-
-GitHub: https://github.com/YOUR_USERNAME
 
